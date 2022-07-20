@@ -34,7 +34,7 @@ TVCG 2022
 
 If this paper is useful for your research, please consider citing:
 
-    @article{li2021point,
+    @article{li2022point,
          title={Point Set Self-Embedding},
          author={Li, Ruihui and Li, Xianzhi and Wong, Tien-Tsin and Fu, Chi-Wing},
          journal={IEEE Transactions on Visualization and Computer Graphics},
